@@ -1,0 +1,12 @@
+.welcome-message{
+    margin-top: -1em;
+    font-size: 1.5em;
+    background-color: hsl(100, 99%, 66%);
+    color:white
+}
+.login-message{
+    
+    font-size: 1.5em;
+    background-color: hsl(0, 100%, 61%);
+    color:white
+}

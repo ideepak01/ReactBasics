@@ -1,0 +1,13 @@
+.setMargin{
+    margin:2em;
+    margin-left:5em;
+    align-items: center;
+}
+
+.colorPicker{
+    width: 15em;
+    height: 15em;
+    border: 1px solid black;
+    border-radius: 1em;
+    margin: 1em;
+}

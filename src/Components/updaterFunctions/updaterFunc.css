@@ -1,0 +1,11 @@
+.counterApp{
+    width: 20em;
+    height: 10em;
+    border: 1px solid black;
+    text-align: center;
+    /* margin: 0 40em; */
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+
+}
